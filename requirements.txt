@@ -1,0 +1,2 @@
+wakeonlan==2.1.0
+adafruit-io==2.7.0
